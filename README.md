@@ -1,1 +1,2 @@
 # people
+INTRO TO GITHUB
